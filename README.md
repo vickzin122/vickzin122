@@ -1,8 +1,7 @@
-oi, me chamo Ana Vitória
+Olá, bem vindo ao meu perfeil
 
+me chamo Ana Vitória
 
+estou estudando na (alura) (https://www.alura.com.br) estou desenvolvendo na linguagem java utilizo esse espaço para organizar e compartilhar os projetos desenvolvidos
 
-<!---
-vickzin122/vickzin122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+vocêpode entrar em contato comigo 00001127126428SP@aluno.educacao.sp.gov.br
