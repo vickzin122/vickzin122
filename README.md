@@ -1,4 +1,4 @@
-- 👋 Hi, eu me chamo Ana Vitória
+- 👋 Hi, me chamo Ana Vitória
 
 
 
